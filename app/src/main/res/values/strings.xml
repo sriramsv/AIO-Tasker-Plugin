@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">AIO Tasker Plugin</string>
+    <string name="title_activity_aiocommand">AIOCommand</string>
+    <string name="title_activity_aiowidget">Add AIO Widget</string>
+    <string name="command">Command</string>
+    <string name="widget">Widget Name </string>
+    <string name="password">Password</string>
+    <string-array name="widgets_array">
+        <item>Weather</item>
+        <item>WeatherOnly</item>
+        <item>WorldClock</item>
+        <item>Monitor</item>
+        <item>Traffic</item>
+        <item>Player</item>
+        <item>Apps</item>
+        <item>AppBox</item>
+        <item>AppList</item>
+        <item>Contacts</item>
+        <item>Notify</item>
+        <item>Dialogs</item>
+        <item>Dialer</item>
+        <item>Timer</item>
+        <item>StopWatch</item>
+        <item>Mail</item>
+        <item>Notes</item>
+        <item>Tasks</item>
+        <item>Feed</item>
+        <item>Telegram</item>
+        <item>Twitter</item>
+        <item>Calendar</item>
+        <item>Exchange</item>
+        <item>Finance</item>
+        <item>Bitcoin</item>
+        <item>Control</item>
+        <item>Recorder</item>
+        <item>Calculator</item>
+        <item>Empty</item>
+        <item>Remote</item>
+    </string-array>
+
+</resources>
